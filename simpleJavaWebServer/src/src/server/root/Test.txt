@@ -1,0 +1,13 @@
+Content-Disposition: form-data; name="filedata"; filename="FromClient.txt"
+Content-Type: text/plain
+
+Data1 in FromClient.txt
+Data2 in FromClient.txt
+Data3 in FromClient.txt
+Data4 in FromClient.txt
+
+
+
+
+
+C:\Users\呵\Desktop\Prvyx\自学-关于计算机\Tomcat与Java Web开发技术详解\源码\javawebsourcecode
